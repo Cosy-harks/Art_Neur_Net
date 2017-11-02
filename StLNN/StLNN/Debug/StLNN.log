@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\us3rs\desktop\machine learning\it works!\stlnn\stlnn\layer.h(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\it works!\stlnn\stlnn\source.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  StLNN.vcxproj -> C:\Users\us3rs\Desktop\Machine Learning\It Works!\StLNN\Debug\StLNN.exe
+  StLNN.vcxproj -> C:\Users\us3rs\Desktop\Machine Learning\It Works!\StLNN\Debug\StLNN.pdb (Partial PDB)

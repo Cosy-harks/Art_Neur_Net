@@ -1,0 +1,34 @@
+﻿  NeuralNetwork.cpp
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\layer.h(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\layer.h(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(104): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(66): warning C4101: 'dout_o_dnet_o': unreferenced local variable
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(68): warning C4101: 'dnet_o_dw': unreferenced local variable
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(56): warning C4101: 'ErrorTotal': unreferenced local variable
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(63): warning C4101: 'dEt_dout_o': unreferenced local variable
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(60): warning C4101: 'dErrtotal_dw': unreferenced local variable
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(191): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(194): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(214): warning C4018: '<=': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(215): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(222): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(229): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(232): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(235): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(238): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(240): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(317): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(322): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(327): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(336): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(337): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(341): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(354): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(373): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(383): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(387): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(391): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\simple neural network\simple neural network\neuralnetwork.cpp(392): warning C4018: '<': signed/unsigned mismatch
+  Simple Neural Network.vcxproj -> C:\Users\us3rs\Desktop\Machine Learning\Extra_Neural\Simple Neural Network\Debug\Simple Neural Network.exe
+  Simple Neural Network.vcxproj -> C:\Users\us3rs\Desktop\Machine Learning\Extra_Neural\Simple Neural Network\Debug\Simple Neural Network.pdb (Partial PDB)

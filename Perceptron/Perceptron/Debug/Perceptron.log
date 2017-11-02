@@ -1,0 +1,15 @@
+﻿  Source.cpp
+c:\users\us3rs\desktop\machine learning\extra_neural\perceptron\perceptron\source.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\us3rs\desktop\machine learning\extra_neural\perceptron\perceptron\source.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\perceptron\perceptron\source.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\perceptron\perceptron\source.cpp(32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\us3rs\desktop\machine learning\extra_neural\perceptron\perceptron\source.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\perceptron\perceptron\source.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\perceptron\perceptron\source.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\perceptron\perceptron\source.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\perceptron\perceptron\source.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\perceptron\perceptron\source.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\perceptron\perceptron\source.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\desktop\machine learning\extra_neural\perceptron\perceptron\source.cpp(139): warning C4018: '<': signed/unsigned mismatch
+  Perceptron.vcxproj -> C:\Users\us3rs\Desktop\Machine Learning\Extra_Neural\Perceptron\Debug\Perceptron.exe
+  Perceptron.vcxproj -> C:\Users\us3rs\Desktop\Machine Learning\Extra_Neural\Perceptron\Debug\Perceptron.pdb (Partial PDB)
