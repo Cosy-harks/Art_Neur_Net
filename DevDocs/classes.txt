@@ -1,0 +1,11 @@
+Classes: Neuron, Layer, ANN, maths?, communicate_with_user?
+Neuron:	vector<floats> weights; // the 
+		Float minActivation; //0.35 – 0.45
+		Float incoming; //
+		Float outgoing; // = (incoming > minActivation) ? incoming : 0
+					// incoming -= outgoing
+Layer:	Vector<Neuron> neurons;
+	
+ANN:	Vector<layer> layers;
+		Enum NNS {“Layer to Layer”, “Neuron to Layers”, “Neuron to Neurons”, “growing”}; //…
+	
