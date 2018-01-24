@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\us3rs\source\repos\artificial neural network spe\artificial neural network spe\source.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\source\repos\artificial neural network spe\artificial neural network spe\source.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\source\repos\artificial neural network spe\artificial neural network spe\source.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\source\repos\artificial neural network spe\artificial neural network spe\source.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\source\repos\artificial neural network spe\artificial neural network spe\source.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\source\repos\artificial neural network spe\artificial neural network spe\source.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\us3rs\source\repos\artificial neural network spe\artificial neural network spe\mathops.h(12): warning C4018: '<': signed/unsigned mismatch
+  c:\users\us3rs\source\repos\artificial neural network spe\artificial neural network spe\source.cpp(50): note: see reference to function template instantiation 'std::string vecToString<double>(std::vector<double,std::allocator<_Ty>>)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+  Artificial Neural Network SPE.vcxproj -> C:\Users\us3rs\source\repos\Artificial Neural Network SPE\Debug\Artificial Neural Network SPE.exe
