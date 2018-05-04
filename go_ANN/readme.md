@@ -43,4 +43,4 @@ press "f5" (should run convolution training)
 IMPORTANT
 
 There are two main()
-top one is blocked, but will still learn if the steps are followed
+There are steps above each main() to make that one work.
