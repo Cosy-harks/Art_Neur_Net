@@ -1,0 +1,17 @@
+
+nodes connected to nodes
+
+A = node
+B = node
+C = node
+.
+.
+.
+.
+I = node
+J = node
+K = node
+
+A -> C, J, K
+B -> F, K
+C -> E, 
