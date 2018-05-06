@@ -15,7 +15,7 @@ In the search bar type "go"
 
 Install Go
 	Rich Go language support for Visual Studio Code
-	by lukehoban
+	by Microsoft
 
 --------------------------------------------
 
